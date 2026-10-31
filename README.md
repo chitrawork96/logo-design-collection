@@ -1,83 +1,66 @@
-# Logo Design Collection
-### Exploring Brand Identity, Visual Systems & Creative Expression
+# Poster Design Collection
+### An Exploration of Visual Styles, Typography & Creative Direction
 
-**12 Brand Concepts | 47 Logo Variations | 15 Experimental Design Styles**
+**122 Posters | 29 Visual Styles | One Creative Exploration**
 
-An independent logo design collection exploring the art of visual identity, brand recognition, typography, symbolism, and creative direction.
+An independent graphic design collection exploring the intersection of visual storytelling, typography, composition, colour theory, and contemporary design aesthetics.
 
-This collection brings together original logo concepts developed for fictional brands across different industries, alongside experimental logo explorations that investigate diverse visual languages, design approaches, and typographic expressions.
+This collection brings together 122 poster designs across 29 distinct visual styles, demonstrating how different artistic directions can communicate ideas, establish moods, and create memorable visual experiences.
 
 ## Explore the Live Collection
 
-**[View the Complete Logo Design Gallery](https://logodesignsstyles.netlify.app/)**
+**[View the Complete Poster Gallery](https://posterscollectionstyle.netlify.app/)**
 
 ## About the Project
 
-The Logo Design Collection is a self-initiated creative project focused on understanding how visual elements translate into distinctive brand identities.
+The Poster Design Collection is a self-initiated creative exploration developed to experiment with diverse graphic design languages and visual communication techniques.
 
-Each concept explores the relationship between a brand's purpose, personality, industry, and visual representation.
+Rather than following a single aesthetic, the collection explores multiple creative directions, examining how typography, layout, colour, imagery, and composition influence visual identity and storytelling.
 
-The collection combines industry-oriented identity concepts with standalone experimental explorations, demonstrating how different design principles can shape memorable and recognisable brand marks.
-
-## Collection Structure
-
-### 1. Industry-Specific Brand Identity Concepts
-
-A collection of 12 original fictional brand concepts, each developed through multiple logo variations.
-
-The concepts explore how branding requirements differ across industries, and how visual identity can communicate a brand's positioning, character, and values.
-
-### 2. Experimental Logo Design Explorations
-
-A collection of 15 standalone logo explorations across different visual styles.
-
-These experiments investigate alternative approaches to logo construction, typography, symbolism, geometry, and visual expression.
+The posters also form part of a broader exploration of advertising creative styles and AI-assisted visual communication.
 
 ## Creative Focus
 
-- **Brand Identity:** Translating brand purpose and personality into visual marks.
-- **Typography:** Exploring lettering, custom wordmarks, and typographic identity.
-- **Symbolism:** Using visual metaphors and distinctive graphic elements.
-- **Geometry & Form:** Experimenting with shapes, proportions, and structural balance.
-- **Visual Recognition:** Creating memorable and identifiable brand marks.
-- **Creative Direction:** Exploring different visual languages across industries and design styles.
+- **Typography & Layout:** Exploring visual hierarchy, expressive lettering, and editorial compositions.
+- **Colour & Composition:** Experimenting with contrast, balance, and colour relationships.
+- **Visual Storytelling:** Communicating concepts through distinctive graphic treatments.
+- **Creative Direction:** Developing cohesive visual approaches across different design styles.
+- **Design Experimentation:** Exploring traditional design principles alongside contemporary aesthetics.
 
 ## Project Overview
 
 | Category | Details |
 |---|---|
 | Project Type | Independent Creative Portfolio |
-| Discipline | Logo Design & Brand Identity |
-| Industry-Specific Concepts | 12 |
-| Logo Variations | 47 |
-| Experimental Design Styles | 15 |
-| Total Logo Explorations | 62 |
-| Format | Digital Design Collection |
+| Discipline | Graphic Design & Visual Communication |
+| Total Designs | 122 Posters |
+| Visual Directions | 29 Styles |
+| Format | Digital Poster Collection |
 | Status | Published |
-| Website | [Live Gallery](https://logodesignsstyles.netlify.app/) |
+| Website | [Live Gallery](https://posterscollectionstyle.netlify.app/) |
 
 ## Design Philosophy
 
-**A logo is more than a symbol. It is the beginning of a brand's visual language.**
+**One medium. Multiple perspectives. Endless possibilities.**
 
-A successful identity should be recognisable, purposeful, adaptable, and aligned with the personality of the brand it represents.
+Great visual design is not defined by a single style. It is shaped by the ability to translate ideas into compelling visual experiences.
 
-This collection explores how typography, geometry, symbolism, and creative direction come together to create distinctive visual identities.
+This collection celebrates experimentation, creative versatility, and the relationship between design principles and artistic expression.
 
-## Portfolio
+## Explore More Creative Work
 
-Explore more of my work across creative design, digital marketing, visual communication, and branding.
+Discover more of my creative explorations across advertising, branding, and visual communication.
 
-**[Visit My Main Portfolio](https://chitramarketingportfolio.netlify.app/)**
-
-**[Explore Poster Design Collection](https://posterscollectionstyle.netlify.app/)**
+- **[AI Visual Ads Collection](https://visual-ads.netlify.app/)** – A collection of AI-generated advertising concepts and visual styles.
+- **[Logo Design Collection](https://logodesignsstyles.netlify.app/)** – Independent logo and brand identity explorations.
+- **[Main Portfolio](https://chitramarketingportfolio.netlify.app/)** – Digital marketing, creative strategy, and marketing projects.
 
 ---
 
 ### Project Note
 
-This is a self-initiated creative exploration developed for portfolio demonstration, brand identity experimentation, and design practice. The brand concepts are fictional and are not presented as commissioned client projects.
+This is a self-initiated creative exploration developed for portfolio demonstration and design experimentation. It is not presented as commissioned client work.
 
 **Created by Chitrangada Mishra**
 
-*Brand Identity | Logo Design | Typography | Creative Direction*
+*Graphic Design | Visual Communication | AI Advertising | Creative Direction*
